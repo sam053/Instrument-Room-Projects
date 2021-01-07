@@ -1,0 +1,54 @@
+
+body {
+    background-color: #CEB888;
+    border-left-width: medium;
+    border-right-width: medium;
+    border-left-color: black;
+    border-right-color: #CEB888 !important;
+}
+
+      h1 { 
+          background-color: black;
+          font-family: 'United Sans Ext', Arial;
+          font-size: xx-large;
+          text-align: center;
+          color: white;
+          margin: 20px;
+      }
+
+      h2{
+          font-family: 'Arial';
+          font-size: large; 
+      }
+
+      .div1{
+          font-family: 'Arial';
+          text-align: left;
+          display: table;
+          background-color: white;
+          padding: 5px;
+          border-color: black;
+          border-width: 2px;
+          border-style: solid;
+          margin-left: 50px;
+          margin-right: 50px;
+      }
+
+      p{
+          font-family: 'Arial';
+      }
+
+      p2{ 
+          font-family: 'Arial';
+          font-size: 10px;
+          text-align: left; 
+          display: table; 
+          background-color: lightgray;
+          padding: 5px;
+          border-color: black;
+          border-style: solid;
+      }
+
+      a{
+          font-family: 'Arial';
+      }
